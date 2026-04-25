@@ -95,3 +95,6 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+<sub>Generated with ❤️ by <a href="https://github.com/deksdeveloper/github-repo-analyzer">GitHub Repository Analyzer</a></sub>
